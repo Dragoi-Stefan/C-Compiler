@@ -1,0 +1,13 @@
+char b;
+float d;
+int a;
+int a1;
+float c;
+string x[25]="sir de test";
+int func(char x,float b){}
+begin
+a=24+4;
+func(b,d);
+4>5;
+7>4;
+end
